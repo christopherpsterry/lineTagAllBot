@@ -1,0 +1,236 @@
+
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c1d4b8ff2ef1e8aa1636cb4329db8d647', parameterMap={'2': 'c1d4b8ff2ef1e8aa1636cb4329db8d647'})
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cdc7ffeb467e352af100bcf8ab1f82640', parameterMap={'2': 'cdc7ffeb467e352af100bcf8ab1f82640'})
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'mid'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'mid'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'mid'
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: uba1cbd448b00e050c041a2c2617bfeb6', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: uba1cbd448b00e050c041a2c2617bfeb6', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: uba1cbd448b00e050c041a2c2617bfeb6', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: uba1cbd448b00e050c041a2c2617bfeb6', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: uba1cbd448b00e050c041a2c2617bfeb6', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: uba1cbd448b00e050c041a2c2617bfeb6', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: uba1cbd448b00e050c041a2c2617bfeb6', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: uba1cbd448b00e050c041a2c2617bfeb6', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: uba1cbd448b00e050c041a2c2617bfeb6', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: uba1cbd448b00e050c041a2c2617bfeb6', parameterMap=None)
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=99, reason='group key member mismatch', parameterMap={})
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: u7bee8a36310cf470cb318027ec08207e', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: u7bee8a36310cf470cb318027ec08207e', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: u7bee8a36310cf470cb318027ec08207e', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: u7bee8a36310cf470cb318027ec08207e', parameterMap=None)
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=73, reason='Group size over limit : 1491438667, 759929122', parameterMap=None)
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: u4dfca9e4e20dc97e59ddc00752373d04', parameterMap=None)
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: u4dfca9e4e20dc97e59ddc00752373d04', parameterMap=None)
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: u4dfca9e4e20dc97e59ddc00752373d04', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c3636f13fb9121f844ac176a80d694a89', parameterMap={'2': 'c3636f13fb9121f844ac176a80d694a89'})
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c3636f13fb9121f844ac176a80d694a89', parameterMap={'2': 'c3636f13fb9121f844ac176a80d694a89'})
+[<module 'time' (built-in)>] TalkException(code=8, reason='EXPIRED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ce5505b37d597c55b83602c61794d4c58', parameterMap={'2': 'ce5505b37d597c55b83602c61794d4c58'})
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c3636f13fb9121f844ac176a80d694a89', parameterMap={'2': 'c3636f13fb9121f844ac176a80d694a89'})
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ce5505b37d597c55b83602c61794d4c58', parameterMap={'2': 'ce5505b37d597c55b83602c61794d4c58'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ce5505b37d597c55b83602c61794d4c58', parameterMap={'2': 'ce5505b37d597c55b83602c61794d4c58'})
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: u4dfca9e4e20dc97e59ddc00752373d04', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='EXPIRED', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c72f5a461049353686d28dd53c9d3097a', parameterMap={'2': 'c72f5a461049353686d28dd53c9d3097a'})
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=8, reason='EXPIRED', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=8, reason='EXPIRED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='EXPIRED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='EXPIRED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='EXPIRED', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=8, reason='EXPIRED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='EXPIRED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='EXPIRED', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ce587ace5ecc80d9fee21b391fa49ca78', parameterMap={'2': 'ce587ace5ecc80d9fee21b391fa49ca78'})
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ce587ace5ecc80d9fee21b391fa49ca78', parameterMap={'2': 'ce587ace5ecc80d9fee21b391fa49ca78'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: ce587ace5ecc80d9fee21b391fa49ca78', parameterMap={'2': 'ce587ace5ecc80d9fee21b391fa49ca78'})
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'

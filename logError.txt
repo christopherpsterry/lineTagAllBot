@@ -1,0 +1,2 @@
+
+[ Minggu, 15 - 07 - 2018 | 21:50:42 ] TalkException(code=0, reason='invalid groupId', parameterMap=None)
